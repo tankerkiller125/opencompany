@@ -1,1 +1,1 @@
-# opencompany
+# Open Company
